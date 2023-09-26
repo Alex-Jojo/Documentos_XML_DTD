@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE DocumentosXMl SYSTEM "src/Elementos.dtd">
+<DocumentosXMl>
+    <PartidoFutbol>
+        <Equipos> Tigres vs Monterrey </Equipos>
+        <Alineaciones> UANL: 3-4-2-1 </Alineaciones>
+        <Alineaciones> MZTN: 4-4-2 </Alineaciones>
+        <MarcadorFinal> 3 - 0 </MarcadorFinal>
+        <Anotaciones>1er gol: minuto 29. </Anotaciones>
+        <Anotaciones>2do gol: minuto 59. </Anotaciones>
+        <Anotaciones>3er gol: minuto 71. </Anotaciones>
+        <GolesPor> André-Pierre Gignac: 1er y 2do gol </GolesPor>
+        <GolesPor> Diego Lainez: 3er gol </GolesPor>
+        <Fecha> 23 de septiembre, 2023. </Fecha>
+    </PartidoFutbol>
+</DocumentosXMl>
